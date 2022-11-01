@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(
     Main
     main.cpp
-    function.h
+    submission.h
 )
 
 install(TARGETS Main
